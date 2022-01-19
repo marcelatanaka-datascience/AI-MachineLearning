@@ -8,3 +8,6 @@
 * The smaller the angle the higher similarity
 * In this context, the vectors are the arrays containing the word counts of a specific product.
 
+
+#### About datasets
+* The dataset comes from kaggle. You can download it raw and check it's credentials here: https://www.kaggle.com/nickhould/craft-cans
