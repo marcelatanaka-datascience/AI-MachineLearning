@@ -21,4 +21,7 @@
 ## BEER Recommendation
 ### Beer recommendation based on beer style!
 
+* This are some of the results for one attribute algorithm
+<img width="406" alt="rec1" src="https://user-images.githubusercontent.com/97251510/150341468-e76d8a13-eabe-49c6-9349-1b3430909a6a.png"> 
+<img width="367" alt="rec2" src="https://user-images.githubusercontent.com/97251510/150341484-52a166d8-ffb0-4ae9-ae21-2c54dd0a66b1.png">
 
