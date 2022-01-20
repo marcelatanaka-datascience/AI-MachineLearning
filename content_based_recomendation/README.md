@@ -15,3 +15,10 @@
 * All codes have a clean and customizable code for usage. __They don't have__ any specifications on their names.
 * Archives with __BEER__ on its names contains code examples for the proposed algorithm.
 * BEER dataset: its source is kaggle. You can download it raw and check it's credentials here: https://www.kaggle.com/nickhould/craft-cans
+
+
+
+## BEER Recommendation
+### Beer recommendation based on beer style!
+
+
